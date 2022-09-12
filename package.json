@@ -1,11 +1,10 @@
 {
-  "name": "2in2v4",
-  "main": "2in2v4",
+  "name": "ambkingio",
+  "main": "ambkingio",
   "theme": "syntax",
   "version": "0.0.7",
-  "description": "2in2.net : เว็บสล็อตออนไลน์ รวบรวมสล็อตดังๆ ทั่วทุกประเภท งบน้อยก็เล่นได้สบายใจ ,918KISS,PUSSY888,SLOTXO,JOKER,NX-CASINO,SLOTX,GOTT7,KickOffBet",
+  "description": "Ambking.io เว็บไซต์ คาสิโนออนไลน์ที่คลองใจผู้เล่นทั่วโลก ด้วยมาตราฐานระดับโลก เทคโนโลยี และการบริการดีที่สุดตลอด 24 ชั่วโมง ไร้ปัญหาให้บริการ ครบทั้ง Ambking กีฬา เกมสล็อต คาสิโนสดออนไลน์ เกมไพ่ เกมตกปลา หวย คีโน่ หรือจะเป็น เทรดดิ้ง บริษัทพัฒนาต่อเนื่องรวดเร็ว มั่นคง พร้อมให้บริการการใช้งานผ่าน Ambking ยิ่งตอกย้ำความเป็นมาตราฐานระดับทั่วโลก",
   "keywords": [
-    "2in2.net : เว็บสล็อตออนไลน์ รวบรวมสล็อตดังๆ ทั่วทุกประเภท งบน้อยก็เล่นได้สบายใจ ,918KISS,PUSSY888,SLOTXO,JOKER,NX-CASINO,SLOTX,GOTT7,KickOffBet",
     "สล็อตออนไลน์",
     "คาสิโนออนไลน์",
     "เกมส์ออนไลน์",
@@ -18,7 +17,7 @@
     "GOTT7",
     "KickOffBet"
   ],
-  "repository": "https://github.com/ambkingdom/2in2",
+  "repository": "https://github.com/ambkingdom/ambkingio",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
